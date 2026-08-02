@@ -280,8 +280,8 @@
     <td width="45%" valign="top">
       <h4>💡 Daily Developer Quote</h4>
       <!--START_SECTION:quote-->
-      <blockquote align="center"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</b><br/>— <i>Martin Fowler</i></blockquote>
-      <!--END_SECTION:quote-->
+<blockquote align="center"><b>"Before software can be reusable it first has to be usable."</b><br/>— <i>Ralph Johnson</i></blockquote>
+<!--END_SECTION:quote-->
       
       <details>
         <summary><b>👀 Click for a Programming Joke</b></summary>

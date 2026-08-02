@@ -52,54 +52,35 @@
 
 ## 👤 About Me
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>🎓 Education</h3>
-        <p><b>B.Tech in Computer Science & Engineering</b><br/>
-        Pranveer Singh Institute of Technology (AKTU)<br/>
-        <i>Oct 2023 – July 2027</i><br/>
-        Current CGPA: <b>7.97</b> (Average till 5th Semester)</p>
-        <p><b>Intermediate & High School</b><br/>
-        Little Flower School, Gorakhpur<br/>
-        <i>Scores: 71.8% (2022) | 91.33% (2020)</i></p>
-      </blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>💼 Internship</h3>
-        <p><b>Software Engineer Intern</b><br/>
-        YugaYatra Retail OPC Pvt. Ltd.<br/>
-        <i>Jan 2026 – Mar 2026</i></p>
-        <ul>
-          <li>Developed MERN-based web applications.</li>
-          <li>Collaborated in Agile Scrum sprints.</li>
-          <li>Optimized application scalability and code versioning.</li>
-        </ul>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>🎯 Current Focus</h3>
-        <p>Creating RAG (Retrieval-Augmented Generation) applications integrating <b>vector databases</b> and Large Language Model endpoints. Diving deep into backend performance tuning, indexing, and system reliability.</p>
-      </blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>🚀 Core Strengths</h3>
-        <ul>
-          <li>Object-Oriented Programming (Java)</li>
-          <li>Data Structures and Algorithms (DSA)</li>
-          <li>Full Stack Engineering (MERN)</li>
-          <li>Database Schema & Queries (MongoDB, MySQL)</li>
-        </ul>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+Hi 👋, I'm **Reeti Srivastava**!
+
+**Software Engineer || Full Stack Developer || Java Developer || AI Enthusiast**
+
+Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collaboration, Projects, or Anything Else. 😊 😊
+
+* 🔭 **I'm currently working on:** [AI Personal Knowledge Base (Second Brain)](https://github.com/Reetisri/secondbrain) — building semantic search and RAG pipelines.
+* 🌱 **I'm currently learning:** Advanced System Design, microservices architecture, and cloud deployment on AWS.
+* 👯 **I'm looking to collaborate on:** Open-source full-stack applications built with React, Node.js, and Vector Databases.
+* 💬 **Ask me about:** Java (OOP & DSA), MERN stack development, API optimization, or database design.
+* 📬 **How to reach me:** [reetisri112@gmail.com](mailto:reetisri112@gmail.com)
+* 🧠 **Competitive Programming:** 5-Star coder on HackerRank (Problem Solving, Java, C).
+* 🎯 **LeetCode:** [View Profile](https://leetcode.com/u/Reetisri) (300+ Problems Solved).
+* ⚡ **Fun fact:** I debugged my first websocket race condition while listening to synthwave at 3 AM!
+
+---
+
+### 🎓 Education & Experience
+
+> **Pranveer Singh Institute of Technology (AKTU)**
+> **B.Tech in Computer Science & Engineering** | *Oct 2023 – July 2027*
+> *Average CGPA (till 5th Semester):* **7.97**
+>
+> **Little Flower School, Gorakhpur**
+> *Intermediate (2022):* **71.8%** | *High School (2020):* **91.33%**
+
+> **YugaYatra Retail OPC Pvt. Ltd.**
+> **Software Engineer Intern** | *Jan 2026 – Mar 2026*
+> * Key Contributions: Developed & deployed MERN web apps, optimized scalability, and actively participated in Agile Scrum processes.
 
 ---
 
@@ -193,28 +174,15 @@
 ## 📈 GitHub Dashboard
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="5" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <!-- Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Reetisri&show_icons=true&theme=tokyonight&title_color=6C63FF&icon_color=00E5FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="100%" alt="GitHub Stats"/>
-      </td>
-      <td width="50%" align="center">
-        <!-- Streak Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetisri&theme=tokyonight&ring=6C63FF&fire=FF4D94&currStreakNum=00E5FF&sideNums=a0aec0&sideLabels=a0aec0&dates=a0aec0&background=0d0f1b&hide_border=true" width="100%" alt="Streak Stats"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <!-- Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetisri&layout=compact&theme=tokyonight&title_color=6C63FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="100%" alt="Top Languages"/>
-      </td>
-      <td width="50%" align="center">
-        <!-- GitHub Metrics Output -->
-        <img src="./assets/github-metrics.svg" width="100%" onerror="this.src='https://github-readme-stats.vercel.app/api/pin/?username=Reetisri&repo=secondbrain&theme=tokyonight&title_color=6C63FF&bg_color=0d0f1b&hide_border=true'" alt="Metrics / Repository Info" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Reetisri&show_icons=true&theme=tokyonight&title_color=6C63FF&icon_color=00E5FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetisri&theme=tokyonight&ring=6C63FF&fire=FF4D94&currStreakNum=00E5FF&sideNums=a0aec0&sideLabels=a0aec0&dates=a0aec0&background=0d0f1b&hide_border=true" width="48%" alt="Streak Stats"/>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reetisri&layout=compact&theme=tokyonight&title_color=6C63FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="48%" alt="Top Languages"/>
+    <img src="./assets/github-metrics.svg" width="48%" onerror="this.src='https://github-readme-stats.vercel.app/api/pin/?username=Reetisri&repo=secondbrain&theme=tokyonight&title_color=6C63FF&bg_color=0d0f1b&hide_border=true'" alt="Metrics / Repository Info" />
+  </p>
 
   ### 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=Reetisri&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" width="100%"/>
@@ -260,36 +228,35 @@
 
 ## 🔮 Fun Zone
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h4>☕ Coffee & Code</h4>
-      <pre align="left">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5dHB5cGxhZnl4NDFub204OHgweXhkbmU2czB4Y3h6ODFudDRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuxqWk7m9ffxyfoa0a/giphy.gif" alt="Coding GIF" width="320px"/>
+</p>
+
+<h4>💡 Daily Developer Quote</h4>
+
+<!--START_SECTION:quote-->
+<blockquote align="center"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</b><br/>— <i>Martin Fowler</i></blockquote>
+<!--END_SECTION:quote-->
+
+<details>
+  <summary><b>👀 Click for a Programming Joke</b></summary>
+  <p><b>Q:</b> Why do programmers wear glasses?<br/><b>A:</b> Because they can't C#! 🤓</p>
+</details>
+
+<h4>☕ Coffee & Code</h4>
+<pre>
      ( (
       ) )
    ........
-   |      |]  &lt;-- Fueling
-   \      /       AI development...
+   |      |]  &lt;-- Fueling AI development...
+   \      /
     `----'
-      </pre>
-      <ul>
-        <li>☕ <b>Coffee Consumed:</b> 1450+ cups and counting.</li>
-        <li>🧩 <b>Fun Fact:</b> I debugged my first websocket race condition while listening to synthwave at 3 AM.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h4>💡 Daily Developer Quote</h4>
-      <!--START_SECTION:quote-->
-      <blockquote align="center"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</b><br/>— <i>Martin Fowler</i></blockquote>
-      <!--END_SECTION:quote-->
-      
-      <details>
-        <summary><b>👀 Click for a Programming Joke</b></summary>
-        <p><b>Q:</b> Why do programmers wear glasses?<br/><b>A:</b> Because they can't C#! 🤓</p>
-      </details>
-    </td>
-  </tr>
-</table>
+</pre>
+
+<ul>
+  <li>☕ <b>Coffee Consumed:</b> 1450+ cups and counting.</li>
+  <li>🧩 <b>Fun Fact:</b> I debugged my first websocket race condition while listening to synthwave at 3 AM.</li>
+</ul>
 
 ---
 

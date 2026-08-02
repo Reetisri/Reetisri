@@ -127,7 +127,9 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
   
   <p align="center">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Reetisri&layout=compact&theme=tokyonight&title_color=6C63FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="48%" alt="Top Languages"/>
-    <img src="./assets/github-metrics.svg" width="48%" onerror="this.src='https://github-stats-extended.vercel.app/api/pin/?username=Reetisri&repo=secondbrain&theme=tokyonight&title_color=6C63FF&bg_color=0d0f1b&hide_border=true'" alt="Metrics / Repository Info" />
+    <a href="https://github.com/Reetisri">
+      <img src="./assets/github-metrics.svg" width="48%" onerror="this.src='https://github-stats-extended.vercel.app/api/pin/?username=Reetisri&repo=secondbrain&theme=tokyonight&title_color=6C63FF&bg_color=0d0f1b&hide_border=true'" alt="Metrics / Repository Info" />
+    </a>
   </p>
 
   ### 📊 Activity Graph
@@ -224,6 +226,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 ---
 
 <div align="center">
-  <!-- Neon Wave Footer -->
-  <img src="./assets/footer.svg" alt="Footer wave decoration" width="100%"/>
+  <a href="https://github.com/Reetisri">
+    <img src="./assets/footer.svg" alt="Footer wave decoration" width="100%"/>
+  </a>
 </div>

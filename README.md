@@ -7,8 +7,6 @@
   <img src="./assets/typing.svg" alt="Typing Animation" width="360px"/>
 
   <p align="center">
-    <!-- Visitor Counter -->
-    <img src="https://komarev.com/normal-badge/?username=Reetisri&color=00E5FF&style=flat-square&label=VISITORS" alt="Visitor Counter"/>
     <!-- License Badge -->
     <img src="https://img.shields.io/badge/License-MIT-FF4D94?style=flat-square" alt="MIT License"/>
   </p>
@@ -184,9 +182,6 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
     <img src="./assets/github-metrics.svg" width="48%" onerror="this.src='https://github-stats-extended.vercel.app/api/pin/?username=Reetisri&repo=secondbrain&theme=tokyonight&title_color=6C63FF&bg_color=0d0f1b&hide_border=true'" alt="Metrics / Repository Info" />
   </p>
 
-  ### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Reetisri&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" width="100%"/>
-
   ### 📊 Activity Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reetisri&bg_color=0d0f1b&color=00E5FF&line=6C63FF&point=FF4D94&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
@@ -223,12 +218,6 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
   - Full Stack Development MERN (FutureSkills)
   - Data Analysis with Python (freeCodeCamp)
   - Deloitte Data Analytics Virtual Experience Program (Forage)
-
-### 🏅 GitHub Achievements
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO" width="65px" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" alt="Pull Shark" width="65px" />
-</p>
 
 ---
 

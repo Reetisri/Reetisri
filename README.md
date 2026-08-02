@@ -308,7 +308,7 @@
 
 ## 📢 Recent Git Activity
 <!--START_SECTION:activity-->
-*No recent activity logged. Trigger the actions pipeline to synchronize.*
+1. 🎉 Merged PR [#5](https://github.com/Reetisri/blahaha/pull/5) in [Reetisri/blahaha](https://github.com/Reetisri/blahaha)
 <!--END_SECTION:activity-->
 
 ---

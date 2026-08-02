@@ -224,6 +224,12 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
   - Data Analysis with Python (freeCodeCamp)
   - Deloitte Data Analytics Virtual Experience Program (Forage)
 
+### 🏅 GitHub Achievements
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO" width="65px" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" alt="Pull Shark" width="65px" />
+</p>
+
 ---
 
 ## 🔮 Fun Zone
@@ -251,34 +257,12 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
    |      |]  &lt;-- Fueling AI development...
    \      /
     `----'
-<<<<<<< HEAD
 </pre>
 
 <ul>
   <li>☕ <b>Coffee Consumed:</b> 1450+ cups and counting.</li>
   <li>🧩 <b>Fun Fact:</b> I debugged my first websocket race condition while listening to synthwave at 3 AM.</li>
 </ul>
-=======
-      </pre>
-      <ul>
-        <li>☕ <b>Coffee Consumed:</b> 1450+ cups and counting.</li>
-        <li>🧩 <b>Fun Fact:</b> I debugged my first websocket race condition while listening to synthwave at 3 AM.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h4>💡 Daily Developer Quote</h4>
-      <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Before software can be reusable it first has to be usable."</b><br/>— <i>Ralph Johnson</i></blockquote>
-<!--END_SECTION:quote-->
-      
-      <details>
-        <summary><b>👀 Click for a Programming Joke</b></summary>
-        <p><b>Q:</b> Why do programmers wear glasses?<br/><b>A:</b> Because they can't C#! 🤓</p>
-      </details>
-    </td>
-  </tr>
-</table>
->>>>>>> 206c8d1d01ee40fdecdd3137bb4848a4bd4128e0
 
 ---
 

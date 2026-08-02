@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 40" width="100%" height="100%">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500;700&amp;display=swap');
+    
+    .text-val {
+      font-family: 'Fira Code', monospace;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #00E5FF; /* Cyan */
+    }
+    
+    .cursor {
+      fill: #FF4D94; /* Pink */
+      animation: blink 0.8s infinite;
+    }
+    
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    
+    .slide {
+      opacity: 0;
+      animation: cycle 18s infinite;
+    }
+    
+    .slide:nth-child(1) { animation-delay: 0s; }
+    .slide:nth-child(2) { animation-delay: 3s; }
+    .slide:nth-child(3) { animation-delay: 6s; }
+    .slide:nth-child(4) { animation-delay: 9s; }
+    .slide:nth-child(5) { animation-delay: 12s; }
+    .slide:nth-child(6) { animation-delay: 15s; }
+    
+    @keyframes cycle {
+      0% { opacity: 0; }
+      3% { opacity: 1; }
+      14% { opacity: 1; }
+      17% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    
+    /* Typewriter mask animation */
+    .type-mask {
+      animation: maskType 3s infinite steps(25);
+    }
+    
+    .slide:nth-child(1) .type-mask { animation-delay: 0s; }
+    .slide:nth-child(2) .type-mask { animation-delay: 3s; }
+    .slide:nth-child(3) .type-mask { animation-delay: 6s; }
+    .slide:nth-child(4) .type-mask { animation-delay: 9s; }
+    .slide:nth-child(5) .type-mask { animation-delay: 12s; }
+    .slide:nth-child(6) .type-mask { animation-delay: 15s; }
+    
+    @keyframes maskType {
+      0% { width: 0; }
+      15%, 85% { width: 350px; }
+      100% { width: 0; }
+    }
+    
+    .slide:nth-child(1) .cursor-anim { animation: cursorMove1 3s infinite steps(17); }
+    .slide:nth-child(2) .cursor-anim { animation: cursorMove2 3s infinite steps(20); }
+    .slide:nth-child(3) .cursor-anim { animation: cursorMove3 3s infinite steps(14); }
+    .slide:nth-child(4) .cursor-anim { animation: cursorMove4 3s infinite steps(14); }
+    .slide:nth-child(5) .cursor-anim { animation: cursorMove5 3s infinite steps(13); }
+    .slide:nth-child(6) .cursor-anim { animation: cursorMove6 3s infinite steps(19); }
+
+    /* Custom cursor movement keyframes for each string length */
+    /* 1: "Software Engineer" (17 chars) -> width approx 12px per char = 204px */
+    @keyframes cursorMove1 {
+      0% { transform: translateX(0); }
+      15%, 85% { transform: translateX(204px); }
+      100% { transform: translateX(0); }
+    }
+    /* 2: "Full Stack Developer" (20 chars) -> 240px */
+    @keyframes cursorMove2 {
+      0% { transform: translateX(0); }
+      15%, 85% { transform: translateX(240px); }
+      100% { transform: translateX(0); }
+    }
+    /* 3: "Java Developer" (14 chars) -> 168px */
+    @keyframes cursorMove3 {
+      0% { transform: translateX(0); }
+      15%, 85% { transform: translateX(168px); }
+      100% { transform: translateX(0); }
+    }
+    /* 4: "MERN Developer" (14 chars) -> 168px */
+    @keyframes cursorMove4 {
+      0% { transform: translateX(0); }
+      15%, 85% { transform: translateX(168px); }
+      100% { transform: translateX(0); }
+    }
+    /* 5: "AI Enthusiast" (13 chars) -> 156px */
+    @keyframes cursorMove5 {
+      0% { transform: translateX(0); }
+      15%, 85% { transform: translateX(156px); }
+      100% { transform: translateX(0); }
+    }
+    /* 6: "Open Source Learner" (19 chars) -> 228px */
+    @keyframes cursorMove6 {
+      0% { transform: translateX(0); }
+      15%, 85% { transform: translateX(228px); }
+      100% { transform: translateX(0); }
+    }
+  </style>
+
+  <!-- Clip paths for typewriter effect -->
+  <clipPath id="clip1"><rect class="type-mask" x="0" y="0" width="0" height="40"/></clipPath>
+  <clipPath id="clip2"><rect class="type-mask" x="0" y="0" width="0" height="40"/></clipPath>
+  <clipPath id="clip3"><rect class="type-mask" x="0" y="0" width="0" height="40"/></clipPath>
+  <clipPath id="clip4"><rect class="type-mask" x="0" y="0" width="0" height="40"/></clipPath>
+  <clipPath id="clip5"><rect class="type-mask" x="0" y="0" width="0" height="40"/></clipPath>
+  <clipPath id="clip6"><rect class="type-mask" x="0" y="0" width="0" height="40"/></clipPath>
+
+  <g transform="translate(10, 25)">
+    <!-- Slide 1 -->
+    <g class="slide">
+      <text x="0" y="0" class="text-val" clip-path="url(#clip1)">Software Engineer</text>
+      <rect class="cursor cursor-anim" x="0" y="-18" width="10" height="22"/>
+    </g>
+    <!-- Slide 2 -->
+    <g class="slide">
+      <text x="0" y="0" class="text-val" clip-path="url(#clip2)">Full Stack Developer</text>
+      <rect class="cursor cursor-anim" x="0" y="-18" width="10" height="22"/>
+    </g>
+    <!-- Slide 3 -->
+    <g class="slide">
+      <text x="0" y="0" class="text-val" clip-path="url(#clip3)">Java Developer</text>
+      <rect class="cursor cursor-anim" x="0" y="-18" width="10" height="22"/>
+    </g>
+    <!-- Slide 4 -->
+    <g class="slide">
+      <text x="0" y="0" class="text-val" clip-path="url(#clip4)">MERN Developer</text>
+      <rect class="cursor cursor-anim" x="0" y="-18" width="10" height="22"/>
+    </g>
+    <!-- Slide 5 -->
+    <g class="slide">
+      <text x="0" y="0" class="text-val" clip-path="url(#clip5)">AI Enthusiast</text>
+      <rect class="cursor cursor-anim" x="0" y="-18" width="10" height="22"/>
+    </g>
+    <!-- Slide 6 -->
+    <g class="slide">
+      <text x="0" y="0" class="text-val" clip-path="url(#clip6)">Open Source Learner</text>
+      <rect class="cursor cursor-anim" x="0" y="-18" width="10" height="22"/>
+    </g>
+  </g>
+</svg>

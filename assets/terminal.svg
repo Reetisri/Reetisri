@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 380" width="100%" height="100%">
+  <defs>
+    <linearGradient id="termGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e2f" />
+      <stop offset="100%" stop-color="#0f0f16" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;display=swap');
+    
+    .term-window {
+      fill: url(#termGrad);
+      stroke: rgba(108, 99, 255, 0.2);
+      stroke-width: 1.5;
+    }
+    .term-header {
+      fill: #14141f;
+      stroke: rgba(108, 99, 255, 0.2);
+      stroke-width: 1.5;
+    }
+    .header-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 13px;
+      fill: #a0aec0;
+    }
+    .prompt {
+      font-family: 'Fira Code', monospace;
+      font-size: 14px;
+      font-weight: 500;
+      fill: #00E5FF;
+    }
+    .cmd {
+      font-family: 'Fira Code', monospace;
+      font-size: 14px;
+      fill: #fff;
+    }
+    .output {
+      font-family: 'Fira Code', monospace;
+      font-size: 13.5px;
+      fill: #e2e8f0;
+    }
+    .output-highlight {
+      font-family: 'Fira Code', monospace;
+      font-size: 13.5px;
+      fill: #FF4D94;
+      font-weight: 500;
+    }
+    .output-success {
+      font-family: 'Fira Code', monospace;
+      font-size: 13.5px;
+      fill: #10B981;
+      font-weight: 500;
+    }
+    .cursor {
+      fill: #00E5FF;
+    }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 0; }
+      50% { opacity: 1; }
+    }
+    
+    .blink {
+      animation: blink 1s infinite;
+    }
+  </style>
+
+  <g filter="url(#shadow)">
+    <!-- Terminal Outer Border/Window -->
+    <rect x="10" y="10" width="630" height="350" rx="12" class="term-window" />
+    
+    <!-- Window Header -->
+    <path d="M 10 22 Q 10 10 22 10 L 628 10 Q 640 10 640 22 L 640 45 L 10 45 Z" class="term-header" />
+    
+    <!-- Red, Yellow, Green Window Dots -->
+    <circle cx="35" cy="27" r="6" fill="#FF5F56" />
+    <circle cx="55" cy="27" r="6" fill="#FFBD2E" />
+    <circle cx="75" cy="27" r="6" fill="#27C93F" />
+    
+    <!-- Window Header Title -->
+    <text x="325" y="32" text-anchor="middle" class="header-text">reetisri@terminal:~ (powershell)</text>
+    
+    <!-- Terminal Body -->
+    <g transform="translate(30, 80)">
+      <!-- Line 1: Prompt & Command -->
+      <text x="0" y="0" class="prompt">PS C:\Users\Reeti&gt; <tspan class="cmd">whoami</tspan></text>
+      
+      <!-- Line 2: Output -->
+      <text x="0" y="25" class="output-highlight">Reeti Srivastava</text>
+      
+      <!-- Line 3: Detail lines -->
+      <text x="0" y="55" class="output">├─ Education:       <tspan fill="#a0aec0">Computer Science Undergraduate</tspan></text>
+      <text x="0" y="77" class="output">├─ Experience:      <tspan fill="#a0aec0">Software Engineer Intern (MERN Stack)</tspan></text>
+      <text x="0" y="99" class="output">├─ Backend:         <tspan fill="#a0aec0">Java Developer (DSA &amp; OOP)</tspan></text>
+      <text x="0" y="121" class="output">├─ Full Stack:      <tspan fill="#a0aec0">MERN Stack Developer (React, Node, Express, MongoDB)</tspan></text>
+      <text x="0" y="143" class="output">├─ Focus Area:      <tspan fill="#a0aec0">Building AI Products &amp; RAG Applications</tspan></text>
+      <text x="0" y="165" class="output">├─ Current Pursuit: <tspan fill="#a0aec0">Learning System Design &amp; Scalable Architectures</tspan></text>
+      <text x="0" y="187" class="output">├─ Location:        <tspan fill="#a0aec0">India</tspan></text>
+      <text x="0" y="209" class="output">└─ Status:          <tspan class="output-success">Building cool things...</tspan></text>
+      
+      <!-- Line 4: Prompt and active cursor -->
+      <text x="0" y="245" class="prompt">PS C:\Users\Reeti&gt; <tspan class="blink" fill="#00E5FF">█</tspan></text>
+    </g>
+  </g>
+</svg>

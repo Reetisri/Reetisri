@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#FF4D94" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#6C63FF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FF4D94" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="50%" stop-color="#FF4D94"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&amp;display=swap');
+    
+    .wave {
+      animation: waveAnim 12s linear infinite;
+    }
+    
+    .wave2 {
+      animation: waveAnim2 8s linear infinite;
+    }
+    
+    @keyframes waveAnim {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-400px); }
+    }
+    
+    @keyframes waveAnim2 {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(400px); }
+    }
+    
+    .footer-text {
+      font-family: 'Outfit', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      fill: url(#textGrad);
+      letter-spacing: 2px;
+    }
+    
+    .footer-subtext {
+      font-family: 'Outfit', sans-serif;
+      font-size: 12px;
+      fill: #a0aec0;
+      letter-spacing: 3px;
+    }
+  </style>
+
+  <!-- Wave 1 (moving left) -->
+  <path class="wave" fill="url(#waveGrad1)" d="M 0 80 Q 100 50 200 80 T 400 80 T 600 80 T 800 80 T 1000 80 T 1200 80 L 1200 120 L 0 120 Z"/>
+  
+  <!-- Wave 2 (moving right, offset) -->
+  <path class="wave2" fill="url(#waveGrad2)" d="M -400 90 Q -300 70 -200 90 T 0 90 T 200 90 T 400 90 T 600 90 L 600 120 L -400 120 Z"/>
+
+  <!-- Centered Content -->
+  <g transform="translate(400, 50)" text-anchor="middle">
+    <text x="0" y="0" class="footer-text" filter="url(#glow)">THANKS FOR VISITING!</text>
+    <text x="0" y="22" class="footer-subtext">⚡ HAPPY CODING ⚡</text>
+  </g>
+</svg>

@@ -175,17 +175,17 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Reetisri&show_icons=true&theme=tokyonight&title_color=6C63FF&icon_color=00E5FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=Reetisri&show_icons=true&theme=tokyonight&title_color=6C63FF&icon_color=00E5FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="48%" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reetisri&theme=tokyonight&ring=6C63FF&fire=FF4D94&currStreakNum=00E5FF&sideNums=a0aec0&sideLabels=a0aec0&dates=a0aec0&background=0d0f1b&hide_border=true" width="48%" alt="Streak Stats"/>
   </p>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reetisri&layout=compact&theme=tokyonight&title_color=6C63FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="48%" alt="Top Languages"/>
-    <img src="./assets/github-metrics.svg" width="48%" onerror="this.src='https://github-readme-stats.vercel.app/api/pin/?username=Reetisri&repo=secondbrain&theme=tokyonight&title_color=6C63FF&bg_color=0d0f1b&hide_border=true'" alt="Metrics / Repository Info" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Reetisri&layout=compact&theme=tokyonight&title_color=6C63FF&text_color=a0aec0&bg_color=0d0f1b&hide_border=true" width="48%" alt="Top Languages"/>
+    <img src="./assets/github-metrics.svg" width="48%" onerror="this.src='https://github-stats-extended.vercel.app/api/pin/?username=Reetisri&repo=secondbrain&theme=tokyonight&title_color=6C63FF&bg_color=0d0f1b&hide_border=true'" alt="Metrics / Repository Info" />
   </p>
 
   ### 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=Reetisri&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Reetisri&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" width="100%"/>
 
   ### 📊 Activity Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reetisri&bg_color=0d0f1b&color=00E5FF&line=6C63FF&point=FF4D94&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
@@ -251,12 +251,34 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
    |      |]  &lt;-- Fueling AI development...
    \      /
     `----'
+<<<<<<< HEAD
 </pre>
 
 <ul>
   <li>☕ <b>Coffee Consumed:</b> 1450+ cups and counting.</li>
   <li>🧩 <b>Fun Fact:</b> I debugged my first websocket race condition while listening to synthwave at 3 AM.</li>
 </ul>
+=======
+      </pre>
+      <ul>
+        <li>☕ <b>Coffee Consumed:</b> 1450+ cups and counting.</li>
+        <li>🧩 <b>Fun Fact:</b> I debugged my first websocket race condition while listening to synthwave at 3 AM.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h4>💡 Daily Developer Quote</h4>
+      <!--START_SECTION:quote-->
+<blockquote align="center"><b>"Before software can be reusable it first has to be usable."</b><br/>— <i>Ralph Johnson</i></blockquote>
+<!--END_SECTION:quote-->
+      
+      <details>
+        <summary><b>👀 Click for a Programming Joke</b></summary>
+        <p><b>Q:</b> Why do programmers wear glasses?<br/><b>A:</b> Because they can't C#! 🤓</p>
+      </details>
+    </td>
+  </tr>
+</table>
+>>>>>>> 206c8d1d01ee40fdecdd3137bb4848a4bd4128e0
 
 ---
 
@@ -275,7 +297,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 
 ## 📢 Recent Git Activity
 <!--START_SECTION:activity-->
-*No recent activity logged. Trigger the actions pipeline to synchronize.*
+1. 🎉 Merged PR [#5](https://github.com/Reetisri/blahaha/pull/5) in [Reetisri/blahaha](https://github.com/Reetisri/blahaha)
 <!--END_SECTION:activity-->
 
 ---

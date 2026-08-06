@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Before software can be reusable it first has to be usable."</b><br/>— <i>Ralph Johnson</i></blockquote>
+<blockquote align="center"><b>"First, solve the problem. Then, write the code."</b><br/>— <i>John Johnson</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

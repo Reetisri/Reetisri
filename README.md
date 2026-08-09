@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Programs must be written for people to read, and only secondarily for machines to execute."</b><br/>— <i>Harold Abelson</i></blockquote>
+<blockquote align="center"><b>"Ruby is rubbish. PHP is pathology. Python is pertness. Java is job security."</b><br/>— <i>Unknown</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

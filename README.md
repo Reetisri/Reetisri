@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Simplicity is the soul of efficiency."</b><br/>— <i>Austin Freeman</i></blockquote>
+<blockquote align="center"><b>"Fix the cause, not the symptom."</b><br/>— <i>Steve Maguire</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

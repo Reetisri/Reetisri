@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Optimism is an occupational hazard of programming: feedback is the treatment."</b><br/>— <i>Kent Beck</i></blockquote>
+<blockquote align="center"><b>"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."</b><br/>— <i>Antoine de Saint-Exupéry</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

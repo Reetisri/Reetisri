@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Code is like humor. When you have to explain it, it’s bad."</b><br/>— <i>Cory House</i></blockquote>
+<blockquote align="center"><b>"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."</b><br/>— <i>Dan Salomon</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

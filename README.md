@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Java is to JavaScript what car is to Carpet."</b><br/>— <i>Chris Heilmann</i></blockquote>
+<blockquote align="center"><b>"Make it work, make it right, make it fast."</b><br/>— <i>Kent Beck</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

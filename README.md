@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Make it work, make it right, make it fast."</b><br/>— <i>Kent Beck</i></blockquote>
+<blockquote align="center"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</b><br/>— <i>Martin Fowler</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</b><br/>— <i>Martin Fowler</i></blockquote>
+<blockquote align="center"><b>"Simplicity is the soul of efficiency."</b><br/>— <i>Austin Freeman</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

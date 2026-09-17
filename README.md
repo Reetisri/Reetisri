@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"There are only two hard things in Computer Science: cache invalidation and naming things."</b><br/>— <i>Phil Karlton</i></blockquote>
+<blockquote align="center"><b>"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."</b><br/>— <i>Antoine de Saint-Exupéry</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>

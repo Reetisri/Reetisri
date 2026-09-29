@@ -180,7 +180,7 @@ Email Me 👈 [reetisri112@gmail.com](mailto:reetisri112@gmail.com) For Collabor
 <h4>💡 Daily Developer Quote</h4>
 
 <!--START_SECTION:quote-->
-<blockquote align="center"><b>"Experience is the name everyone gives to their mistakes."</b><br/>— <i>Oscar Wilde</i></blockquote>
+<blockquote align="center"><b>"Knowledge is power."</b><br/>— <i>Francis Bacon</i></blockquote>
 <!--END_SECTION:quote-->
 
 <details>
